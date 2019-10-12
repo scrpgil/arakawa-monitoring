@@ -11,10 +11,25 @@ export class AppHome {
       <ion-header>
         <ion-toolbar color="primary">
           <ion-title>荒川モニタリング</ion-title>
+          <ion-buttons slot="end">
+            <ion-button
+              href="http://www.ktr.mlit.go.jp/arage/arage00079.html"
+              target="_blank"
+            >
+              公式サイト
+            </ion-button>
+          </ion-buttons>
         </ion-toolbar>
       </ion-header>,
 
       <ion-content class="ion-padding">
+        <ion-button
+          href="https://www.city.adachi.tokyo.jp/saigai/bosai/bosai/hinanjo-tejun-hinan.html"
+          size="small"
+          target="_blank"
+        >
+          足立区の避難場所
+        </ion-button>
         <h2>観測地点</h2>
         <img width={600} src="http://file.xiangxingtech.com/imgs/content.jpg" />
         <div class="live-camera-wrapper">
