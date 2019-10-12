@@ -11,14 +11,6 @@ export class AppHome {
       <ion-header>
         <ion-toolbar color="primary">
           <ion-title>荒川モニタリング</ion-title>
-          <ion-buttons slot="end">
-            <ion-button
-              href="http://www.ktr.mlit.go.jp/arage/arage00079.html"
-              target="_blank"
-            >
-              公式サイト
-            </ion-button>
-          </ion-buttons>
         </ion-toolbar>
       </ion-header>,
 
