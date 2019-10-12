@@ -80,6 +80,11 @@ export class AppHome {
             width={400}
             src={"http://file.xiangxingtech.com/river/shinsuna.jpg?" + ts}
           />
+      <div>
+<ins class="adsbygoogle"
+     data-ad-client="ca-pub-7714239321627994"
+     data-ad-slot="9463296010"></ins>
+      </div>
           <div>出典:国土交通省　関東地方整備局　荒川下流河川事務所 水位・雨量・ライブ映像(<a href="http://www.ktr.mlit.go.jp/arage/arage00079.html" target="_blank">http://www.ktr.mlit.go.jp/arage/arage00079.html</a>)</div>
         </div>
       </ion-content>
