@@ -25,7 +25,7 @@ export class AppHome {
         <h2>観測地点</h2>
         <img width={600} src="http://file.xiangxingtech.com/imgs/content.jpg" />
         <div class="live-camera-wrapper">
-          <h2>ライブカメラ映像（1分おき更新）</h2>
+          <h2>ライブカメラ映像（1分おき更新: 手動更新でお願いします...）</h2>
           <p>1.笹目橋付近</p>
           <img
             width={400}
