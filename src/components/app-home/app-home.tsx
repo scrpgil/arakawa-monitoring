@@ -15,6 +15,7 @@ export class AppHome {
       </ion-header>,
 
       <ion-content class="ion-padding">
+        <h2>更新終了</h2>
         <ion-button
           href="https://www.city.adachi.tokyo.jp/saigai/bosai/bosai/hinanjo-tejun-hinan.html"
           size="small"
